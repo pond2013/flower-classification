@@ -1,1 +1,1 @@
-# flower-classification
+# Machine Learning Final Project
